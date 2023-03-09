@@ -1,0 +1,44 @@
+
+Table Name			Description
+
+ADMISSIONS			Cada hospitalizacion para cada paciente
+
+CALLOUT				Información sobre cuándo se autorizó el alta y cuando realmente se le dio el alta
+
+ICUSTAYS			Todas las estancias en la UCI
+
+PATIENTS			Cada uno de los pacientes
+
+SERVICES			El servicio bajo el cual los pacientes están inscriptos
+
+TRANSFERS			Traslado de pacientes de una cama a otra dentro del hospital
+
+CAREGIVERS			Cada cuidador que haya registrado datos
+
+CHARTEVENTS			Todas las observaciones de los pacientes
+
+DATETIMEEVENTS			Todas las observaciones que sean fechas, la hora de la diálisis etc…
+
+INPUTEVENTS_CV			Admision de pacientes monitorizados con el sistema Philips CareVue durante su estadia en la UCI
+
+INPUTEVENTS_MV			Admisión de pacientes monitorizados con el sistema iMDSoft Metavision mientras están en la UCI
+
+NOTEEVENTS			Notas no identificadas, incluidas notas de enfermería y médicas
+
+OUTPUTEVENTS			Información de salida de los pacientes
+
+PROCEDUREEVENTS_MV		Procedimientos de pacientes para el subconjunto de pacientes que fueron monitoreados por el sistema iMDSoft Metavision
+
+CPTEVENTS			Current Procedural Terminology (CPT); Procedimientos registrados como códigos
+
+DIAGNOSES_ICD			Diagnósticos asignados por el hospital, codificados mediante el International Statistical Classification of Diseases DNA Related Health Problems (ICD)
+
+DRGCODES			Grupos relacionados por el diagnóstico, que el hospital utiliza para facturación
+
+LABEVENTS			Exámenes de laboratorio para pacientes del hospital y para consultas externas
+
+MICROBIOLOGYEVENTS		Medidas y estudios microbiológicos de la base de datos del hospital
+
+PRESCRIPTIONS			Órdenes de medicamentos, no siempre administradas, para un paciente
+
+PROCEDURES_ICD			Procedimientos de los pacientes usando el ICD
